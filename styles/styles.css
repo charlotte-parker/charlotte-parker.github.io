@@ -2,7 +2,19 @@
 	width: 100%;
 }
 
+h1 {
+	font-family: ariel;
+	font-weight: bold;
+	color: grey;
+}
+
+h5 {
+	font-family: courier new;
+	color: grey
+}
+
 h4 {
+	font-family: courier new;
 	color: white
 }
 
@@ -15,6 +27,5 @@ body {
 }
 
 .about-me-text {
-	text-align: center;
 	color: white
 }
