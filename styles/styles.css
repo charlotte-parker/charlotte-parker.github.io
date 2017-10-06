@@ -1,0 +1,20 @@
+.profile-pic {
+	width: 100%;
+}
+
+h4 {
+	color: white
+}
+
+body { 
+  background: url(https://i.pinimg.com/originals/59/96/d2/5996d2cfcea828cf82835a41117b9bcd.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.about-me-text {
+	text-align: center;
+	color: white
+}
